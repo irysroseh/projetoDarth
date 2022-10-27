@@ -1,0 +1,22 @@
+.container{
+    border: 1px solid red;
+    width: 900px;
+    background-color: black;
+}
+.nav{
+    background-color: #708090;
+    padding: 1rem;
+}
+.nav-item{
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    padding: .8REM;
+}
+main{
+   color: #fff;
+}
+.footer{
+    color: #fff;
+    text-align: center;
+}
